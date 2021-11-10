@@ -8,6 +8,8 @@ pip install -U robotframework-seleniumlibrary
 
 pip install -U robotframework-requests
 
-Also, make sure that the webdrivers and python3 are up to date.
+In the scenarios 05 and 08, you will need to update the email to a new one
 
-Best regards.
+Also, make sure that the webdrivers and python3 are up to date
+
+Best regards
